@@ -39,7 +39,7 @@ As an IT Help Desk Analyst transitioning into Cloud Security Engineering, this l
 
 ## Project Roadmap
 
-- [ ] Create Azure environment
+- [x] Create Azure environment
 - [ ] Configure Microsoft Entra ID
 - [ ] Create users and security groups
 - [ ] Implement MFA
